@@ -1,0 +1,2 @@
+gcc main.c word_sort.c -o main
+./main
