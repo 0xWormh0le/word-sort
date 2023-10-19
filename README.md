@@ -1,5 +1,6 @@
 # word-sort
 
+```
 NAME
         word_sort
 
@@ -37,4 +38,4 @@ EXAMPLES
         "The   \t\n cat  sat"     0                                 "The cat sat"   12 
         "The   \t\n cat  sat"     WORD_SORT_IGNORE_CASE             "cat sat The"   12
         "The   \t\n cat  sat"     WORD_SORT_REVERSE                 "sat cat The"   12
-
+```
